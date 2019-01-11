@@ -1,1 +1,1 @@
-object = {}
+var recipes = newObject();
